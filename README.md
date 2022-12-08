@@ -1,4 +1,4 @@
-# Web Engineering 2022-2023 / Microservices
+# Web Engineering 2022-2023 / Lab 6 Microservices
 
 Please, go to the [GUIDE](docs/GUIDE.md) in order to get the instructions for this assignment.
 
