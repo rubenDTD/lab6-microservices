@@ -14,5 +14,6 @@ Some ideas for obtaining a :gift: if you are the first that:
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| User name | NIA | Report | Score |
-|-----------|-----|--------|-------|
+| User name | NIA | Report                                                                                                                                                                                         | Score |
+|-----------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| [PilarEster](https://github.com/PilarEster/lab6-microservices/tree/work) | 800033 | [![Build Status](https://github.com/PilarEster/lab6-microservices/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/PilarEster/lab6-microservices/actions/workflows/ci.yml) |
