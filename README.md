@@ -16,3 +16,4 @@ by a PR so other fellow can try it.
 
 | User name | NIA | Report | Score |
 |-----------|-----|--------|-------|
+| [Ernesting](https://github.com/Ernesting/lab6-microservices/tree/work) | 798799 | [REPORT.md](https://github.com/Ernesting/lab6-microservices/blob/work/docs/REPORT.md) | |
