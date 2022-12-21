@@ -16,3 +16,4 @@ by a PR so other fellow can try it.
 
 | User name | NIA | Report | Score |
 |-----------|-----|--------|-------|
+|[Ibon2](https://github.com/Ibon2/lab6-microservices/tree/work)| 776561 | [REPORT.md](https://github.com/Ibon2/lab6-microservices/blob/work/docs/REPORT.md)| |
