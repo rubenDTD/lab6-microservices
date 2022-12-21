@@ -20,5 +20,5 @@ by a PR so other fellow can try it.
 | [pikanachi](https://github.com/pikanachi/lab6-microservices/tree/work) | 610720 | [REPORT.md](https://github.com/pikanachi/lab6-microservices/blob/work/docs/REPORT.md) |
 | [celiia01](https://github.com/celiia01/lab6-microservices/tree/work) | 796685 | [REPORT.md](https://github.com/celiia01/lab6-microservices/blob/work/docs/REPORT.md) |   |
 | [Ernesting](https://github.com/Ernesting/lab6-microservices/tree/work) | 798799 | [REPORT.md](https://github.com/Ernesting/lab6-microservices/blob/work/docs/REPORT.md) | |
-| [GonchiMonchi] | 759561 | [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/docs/REPORT.md) |
+| [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | 759561 | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/docs/REPORT.md) |
 | [PilarEster](https://github.com/PilarEster/lab6-microservices/tree/work) | 800033 | [REPORT.md](https://github.com/PilarEster/lab6-microservices/blob/work/docs/REPORT.md)  |   |
