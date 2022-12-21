@@ -23,4 +23,5 @@ by a PR so other fellow can try it.
 | [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | 759561 | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/docs/REPORT.md) |
 | [PilarEster](https://github.com/PilarEster/lab6-microservices/tree/work) | 800033 | [REPORT.md](https://github.com/PilarEster/lab6-microservices/blob/work/docs/REPORT.md)  |   |
 | [hec7orci7o](https://github.com/Hec7or-Uni/lab6-microservices/tree/work) | 798095 | [REPORT.md](https://github.com/Hec7or-Uni/lab6-microservices/blob/work/docs/REPORT.md) |       |
-|[Ibon2](https://github.com/Ibon2/lab6-microservices/tree/work)| 776561 | [REPORT.md](https://github.com/Ibon2/lab6-microservices/blob/work/docs/REPORT.md)| |
+| [Ibon2](https://github.com/Ibon2/lab6-microservices/tree/work)| 776561 | [REPORT.md](https://github.com/Ibon2/lab6-microservices/blob/work/docs/REPORT.md)| |
+| [HugoLazaro](https://github.com/HugoLazaro/lab6-microservices/tree/work) | 801758 | [REPORT.md](https://github.com/HugoLazaro/lab6-microservices/blob/work/docs/REPORT.md) | |
