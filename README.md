@@ -22,3 +22,4 @@ by a PR so other fellow can try it.
 | [Ernesting](https://github.com/Ernesting/lab6-microservices/tree/work) | 798799 | [REPORT.md](https://github.com/Ernesting/lab6-microservices/blob/work/docs/REPORT.md) | |
 | [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | 759561 | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/docs/REPORT.md) |
 | [PilarEster](https://github.com/PilarEster/lab6-microservices/tree/work) | 800033 | [REPORT.md](https://github.com/PilarEster/lab6-microservices/blob/work/docs/REPORT.md)  |   |
+| [hec7orci7o](https://github.com/Hec7or-Uni/lab6-microservices/tree/work) | 798095 | [REPORT.md](https://github.com/Hec7or-Uni/lab6-microservices/blob/work/docs/REPORT.md) |       |
