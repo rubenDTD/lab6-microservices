@@ -17,3 +17,4 @@ by a PR so other fellow can try it.
 | User name                                                            | NIA | Report                                                                               | Score                             |
 |----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
 | [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | Plan to implement **API gateway** |
+| [pikanachi](https://github.com/pikanachi/lab6-microservices/tree/work) | 610720 | [REPORT.md](https://github.com/pikanachi/lab6-microservices/blob/work/docs/REPORT.md) |
