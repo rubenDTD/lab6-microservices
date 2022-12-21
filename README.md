@@ -10,9 +10,10 @@ Some ideas for obtaining a :gift: if you are the first that:
 * [Centralized configuration for all services](https://github.com/spring-attic/gs-routing-and-filtering).
 * [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
-
+[README.md](README.md)
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| User name | NIA | Report | Score |
-|-----------|-----|--------|-------|
+| User name                                                            | NIA | Report                                                                               | Score                             |
+|----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
+| [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | Plan to implement **API gateway** |
