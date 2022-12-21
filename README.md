@@ -16,3 +16,5 @@ by a PR so other fellow can try it.
 
 | User name | NIA | Report | Score |
 |-----------|-----|--------|-------|
+| [HugoLazaro](https://github.com/HugoLazaro/lab6-microservices/tree/work) | 801758 | [REPORT.md](https://github.com/HugoLazaro/lab6-microservices/blob/work/docs/REPORT.md) | |
+
