@@ -18,3 +18,4 @@ by a PR so other fellow can try it.
 |----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
 | [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | Plan to implement **API gateway** |
 | [pikanachi](https://github.com/pikanachi/lab6-microservices/tree/work) | 610720 | [REPORT.md](https://github.com/pikanachi/lab6-microservices/blob/work/docs/REPORT.md) |
+| [celiia01](https://github.com/celiia01/lab6-microservices/tree/work) | 796685 | [REPORT.md](https://github.com/celiia01/lab6-microservices/blob/work/docs/REPORT.md) |   |
