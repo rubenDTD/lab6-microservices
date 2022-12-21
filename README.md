@@ -16,3 +16,4 @@ by a PR so other fellow can try it.
 
 | User name | NIA | Report | Score |
 |-----------|-----|--------|-------|
+| [797021](https://github.com/797021/lab6-microservices/tree/work) | 797021 | [REPORT.md](https://github.com/797021/lab6-microservices/blob/work/docs/REPORT.md) |
