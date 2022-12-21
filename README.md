@@ -16,4 +16,4 @@ by a PR so other fellow can try it.
 
 | User name      | NIA | Report | Score |
 |----------------|-----|--------|-------|
-| [GonchiMonchi] | 759561 | [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/REPORT.md) |
+| [GonchiMonchi] | 759561 | [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/docs/REPORT.md) |
